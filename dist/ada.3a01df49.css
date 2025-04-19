@@ -10,4 +10,14 @@ body {
   border-left: 2px solid gray;
   padding-left: 16px;
 }
+
+.square {
+  vertical-align: top;
+  margin: 15px;
+  display: inline-block;
+}
+
+.description {
+  width: 300px;
+}
 /*# sourceMappingURL=ada.3a01df49.css.map */

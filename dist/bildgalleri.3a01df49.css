@@ -1,0 +1,23 @@
+body {
+  background-color: #e5c1da;
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.gray {
+  color: gray;
+  border-left: 2px solid gray;
+  padding-left: 16px;
+}
+
+.square {
+  vertical-align: top;
+  margin: 15px;
+  display: inline-block;
+}
+
+.description {
+  width: 300px;
+}
+/*# sourceMappingURL=bildgalleri.3a01df49.css.map */

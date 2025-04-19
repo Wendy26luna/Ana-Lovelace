@@ -1,0 +1,22 @@
+body { 
+    background-color: #e5c1da;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.gray {
+    color: gray;
+    border-left:2px  solid gray ;
+    padding-left: 16px;
+}
+
+.square {
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px;
+}
+
+.description {
+    width: 300px;
+}
